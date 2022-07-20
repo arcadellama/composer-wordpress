@@ -1,0 +1,23 @@
+# Dotenv
+.env
+
+# Composer
+composer.lock
+/vendor/
+
+# Wordpress
+/core/
+content/backup/*
+content/cache/*
+content/upgrade/*
+content/uploads/*
+content/plugins/*
+content/themes/*
+
+!content/themes/versioned-themes/*
+!content/plugins/versioned-plugins/
+
+# Hidden system files
+.DS_Store
+*[Tt]humbs.db
+*.Trashes

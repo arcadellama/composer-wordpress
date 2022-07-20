@@ -1,0 +1,9 @@
+{
+    "require": {
+        "johnpbloch/wordpress": "^6.0",
+        "vlucas/phpdotenv": "^5.4"
+    },
+    "extra": {
+        "wordpress-install-dir": "core"
+    }
+}
