@@ -11,10 +11,12 @@ content/backup/*
 content/cache/*
 content/upgrade/*
 content/uploads/*
+content/mu-plugins/*
 content/plugins/*
 content/themes/*
 
 !content/themes/versioned
+!content/mu-plugins/versioned
 !content/plugins/versioned
 
 # Hidden system files
