@@ -14,8 +14,8 @@ content/uploads/*
 content/plugins/*
 content/themes/*
 
-!content/themes/versioned-themes/*
-!content/plugins/versioned-plugins/
+!content/themes/versioned
+!content/plugins/versioned
 
 # Hidden system files
 .DS_Store
