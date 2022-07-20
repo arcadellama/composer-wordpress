@@ -29,14 +29,14 @@ define( 'DB_COLLATE', '' );
 // Salts, for security
 // Grab these from: https://api.wordpress.org/secret-key/1.1/salt
 // ==============================================================
-define( 'AUTH_KEY',         '5>:<YcL|y(_P`1!/N[})vU&uOAF7(;W.e0J:./n7nT6uI3;F:w~BC+9?`]-xG.eH' );
-define( 'SECURE_AUTH_KEY',  '1|oJH7h*gXSx>ia~nED~cL|qzYUt2@MUqv -Q/z9hr<$l>zj6F2tm!t7`E0)6``G' );
-define( 'LOGGED_IN_KEY',    ')3^x9ZH*j2Jg7 g(-y:td&@OU{d:V@65mPtR3#QrFw~ahAri[3{X/^Y%Y(LtS3,{' );
-define( 'NONCE_KEY',        '1o2IuXbB,m,8>z)W7<WMWqs}dhpc#cutj9qBc<twXcu&JM=m71ewRQ++}eWb7`<-' );
-define( 'AUTH_SALT',        'fUir`&Y30k+y 4j3<2)>Easi_7u7eRT)Zqz23 7*=bMU1;UFfB:B0@1hT1c^2akE' );
-define( 'SECURE_AUTH_SALT', '*,:fT^cgng _yU=X[*XasWYo~CeTui3>{4!+PVR2A<UsCpR:6wb{H+|:Dwd;Q1BM' );
-define( 'LOGGED_IN_SALT',   '-k9ZP]%I6coRR>@Ofy=81 w)IGTujNHouLAD7@ s*g?GpIO.N#&iXYRFTl&,L RQ' );
-define( 'NONCE_SALT',       '<hZfzxV;Z&}G`9gK|L=W,S KwiT16m2-P0@W~@E6<J##DjcM!tl0&N!X{bM93Z`9' );
+define( 'AUTH_KEY',         'mYQ!pnd%@2x*3M>V F>?L*qiP7Ui,TK)i-0QWt9d.+M.yIfo:k[GvV<D q/ x@Jy' );
+define( 'SECURE_AUTH_KEY',  '1/g1X*{S%fsP]!lIu%2{VeT?P9$<_GT~>r=*JR*>{mB eEDrW;9kk1Kb*|tsD3?j' );
+define( 'LOGGED_IN_KEY',    'MEDS,?toJ|P*)8[@Zq_Rx9M6eYox0}uwSBFGYU og;t1}e5CpC_|F^zm:~i$a)`?' );
+define( 'NONCE_KEY',        'vDZ7E%- Ni!diZSG%g>t4`sp+(U15C[YS9fA&VWv5?5A|f!omf|tm$$D:P|q]wP.' );
+define( 'AUTH_SALT',        '~uxNDVEMjWiS2xGq{Z13f|sE+`uOYU;~9VbA6u- |kh_Db0r,-F.`I~)Gu!m3h]u' );
+define( 'SECURE_AUTH_SALT', 'At:tC5=_rr[pV>uSMh3d6Bj5xWTvqdC%mbzs@(8uyETJ3S!O#8B?=]0~OQwEXbs4' );
+define( 'LOGGED_IN_SALT',   '0=s(nH5V@.#%j|~=:Rsp6u-p]rg1S=;0`e(Mu|@SLP1ZInW|WDn7:<=F847r*[$-' );
+define( 'NONCE_SALT',       'f`obytj}r$s@WG@&gKF [NnFDUd8(S8YU=WZe#R0(@crUVjxCsb=3;% `xz/zZw.' );
 
 // ==============================================================
 // Table prefix
